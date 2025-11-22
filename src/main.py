@@ -1,6 +1,6 @@
-from extract import extract_customers, extract_payments
-from transform import transform_pipeline
-from load import load_to_sqlite
+from etl.extract import extract_customers, extract_payments
+from etl.transform import transform_pipeline
+from etl.load import load_to_sqlite
 
 def run_etl():
     # Step 1: Extract
