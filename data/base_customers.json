@@ -1,0 +1,170 @@
+[
+  {
+    "customer_id": "dd0bdfd2-fd94-4582-ba39-6fa79bb4155f",
+    "name": "Allison Hill",
+    "email": "donaldgarcia@example.net",
+    "created_at": "2025-10-15T04:34:15.082656"
+  },
+  {
+    "customer_id": "0110112d-db12-4ed7-b008-f271ea611c30",
+    "name": "Javier Johnson",
+    "email": "jesseguzman@example.net",
+    "created_at": "2025-02-03T22:54:07.249579"
+  },
+  {
+    "customer_id": "d5c97b4a-b58a-4e67-b8a5-bca50222493e",
+    "name": "Kimberly Robinson",
+    "email": "lisa02@example.net",
+    "created_at": "2025-04-26T16:28:30.992329"
+  },
+  {
+    "customer_id": "a281b65d-01d5-4dd7-98e4-9250f03d8011",
+    "name": "Daniel Gallagher",
+    "email": "daviscolin@example.com",
+    "created_at": "2025-07-01T20:03:22.988173"
+  },
+  {
+    "customer_id": "65ef1289-e8e7-457d-8f53-0acd87e3adf2",
+    "name": "Monica Herrera",
+    "email": "smiller@example.net",
+    "created_at": "2025-07-07T05:44:04.536144"
+  },
+  {
+    "customer_id": "6c35e3db-0937-4e1e-86ef-760c61a5e664",
+    "name": "Laura Bush",
+    "email": "stanleykendra@example.org",
+    "created_at": "2025-10-01T17:26:55.518197"
+  },
+  {
+    "customer_id": "3f9655ec-f38e-4391-979d-d3e635d0a80c",
+    "name": "Jamie Chavez",
+    "email": "francisco53@example.net",
+    "created_at": "2025-02-28T20:12:08.648259"
+  },
+  {
+    "customer_id": "125a641f-6fe3-4288-a852-8c583ccafcd8",
+    "name": "Maria Lynch",
+    "email": "amandasanchez@example.com",
+    "created_at": "2025-04-10T22:09:15.199309"
+  },
+  {
+    "customer_id": "f4d4345b-6251-4e3f-9906-0607da30ae76",
+    "name": "Margaret Hawkins DDS",
+    "email": "perezantonio@example.com",
+    "created_at": "2025-04-18T20:27:11.276560"
+  },
+  {
+    "customer_id": "c86e34b2-6322-4583-84b4-107f6f63c740",
+    "name": "Thomas Bradley",
+    "email": "jason76@example.net",
+    "created_at": "2025-05-09T22:07:26.775212"
+  },
+  {
+    "customer_id": "c640267d-ae0d-425d-b9a4-5d8a0fc867d1",
+    "name": "David Hoffman",
+    "email": "julie69@example.com",
+    "created_at": "2025-04-04T13:06:46.207209"
+  },
+  {
+    "customer_id": "23adaf39-31d6-42a6-8ea6-bf06033652fa",
+    "name": "Brenda Snyder PhD",
+    "email": "hernandezernest@example.net",
+    "created_at": "2025-04-26T12:29:30.622066"
+  },
+  {
+    "customer_id": "28996dc9-e843-476a-998c-6cfca33186b3",
+    "name": "James Ferrell",
+    "email": "tasha01@example.net",
+    "created_at": "2025-10-12T11:46:55.536573"
+  },
+  {
+    "customer_id": "033cbbb9-6f3b-43cb-9874-0925c4b15370",
+    "name": "Patricia Peterson",
+    "email": "ryan70@example.net",
+    "created_at": "2025-10-09T05:27:20.014338"
+  },
+  {
+    "customer_id": "e225d65d-ee83-4c30-90d9-4e0c14ff92e7",
+    "name": "Jonathan White",
+    "email": "harrellkenneth@example.net",
+    "created_at": "2025-05-27T17:59:23.543567"
+  },
+  {
+    "customer_id": "0384d13f-059b-49ab-b1c7-c251fd16421b",
+    "name": "James Martin",
+    "email": "georgetracy@example.org",
+    "created_at": "2025-10-28T16:11:39.751428"
+  },
+  {
+    "customer_id": "f61021b0-1eae-4763-932c-db5a67dcf4fa",
+    "name": "Sandra Parker",
+    "email": "allenashley@example.org",
+    "created_at": "2024-12-24T14:45:23.374395"
+  },
+  {
+    "customer_id": "8c810b4f-48a2-4f0a-8f80-99515e97903c",
+    "name": "Mr. Philip Cannon",
+    "email": "donnaarroyo@example.org",
+    "created_at": "2025-02-28T03:21:42.064511"
+  },
+  {
+    "customer_id": "8f7813aa-d46c-42ca-ab57-0bf8075e2b85",
+    "name": "Jenny Lewis",
+    "email": "jenniferross@example.net",
+    "created_at": "2025-07-18T16:36:50.297121"
+  },
+  {
+    "customer_id": "2a6c9814-8937-41c8-ab7a-41aded739bf3",
+    "name": "Joseph Martinez",
+    "email": "calebsmith@example.net",
+    "created_at": "2025-02-15T09:04:09.866261"
+  },
+  {
+    "customer_id": "2099bd4e-4b2b-48ed-a301-80b4cf3cf7b3",
+    "name": "Javier Ramirez",
+    "email": "nancyjones@example.net",
+    "created_at": "2024-12-29T02:11:14.887954"
+  },
+  {
+    "customer_id": "86046fe7-b103-4a1c-9e04-0591f3e07327",
+    "name": "Stephanie Martin",
+    "email": "gallowayjoseph@example.com",
+    "created_at": "2025-03-07T12:22:13.612082"
+  },
+  {
+    "customer_id": "b87cd87c-cbd1-4699-91d5-02395d81e5b3",
+    "name": "Mary Tucker",
+    "email": "kennethnovak@example.net",
+    "created_at": "2025-08-19T01:14:23.916431"
+  },
+  {
+    "customer_id": "5accf4f1-9840-4d29-9859-23c0e21ae58c",
+    "name": "Kim Brown",
+    "email": "yorkcasey@example.org",
+    "created_at": "2025-07-27T22:41:46.297970"
+  },
+  {
+    "customer_id": "4bcdd8ca-4f35-43fe-bbfd-3f7430207632",
+    "name": "Elizabeth Stewart",
+    "email": "smithchristine@example.net",
+    "created_at": "2025-11-22T03:29:21.635501"
+  },
+  {
+    "customer_id": "e9bde252-9f86-4843-98d8-026849fdb76f",
+    "name": "Timothy Ibarra",
+    "email": "mikemoore@example.net",
+    "created_at": "2025-08-07T07:00:33.681442"
+  },
+  {
+    "customer_id": "40cf75d4-ed90-4f41-9070-63cfaaa4f0cc",
+    "name": "Deborah Freeman",
+    "email": "davisrodney@example.com",
+    "created_at": "2024-12-09T10:24:12.303188"
+  },
+  {
+    "customer_id": "e3078fdd-b23b-4c92-9021-572aee6fece9",
+    "name": "Andrew Diaz",
+    "email": "nolanjason@example.org",
+    "created_at": "2025-07-24T22:07:46.569005"
+  }
+]

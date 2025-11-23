@@ -1,6 +1,6 @@
 faker
 pandas
 sqlite3
-
+kafka-python
 
 # run pip install -r requirements.txt
