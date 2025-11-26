@@ -40,7 +40,7 @@ def create_customer():
             start_date="-1y", end_date="now"
         ).isoformat(),
     }
-    producer.send("customers_stream", customer)
+    producer.send("customer_stream", customer)
     CUSTOMERS.append(customer)
     save_customers()
     return customer
@@ -65,7 +65,7 @@ def create_payment(customer):
         ).isoformat(),
     }
 
-    producer.send("payments_stream", payment)
+    producer.send("payment_stream", payment)
 
 
 # ---- INIT BASE CUSTOMERS ----

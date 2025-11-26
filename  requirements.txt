@@ -2,5 +2,6 @@ faker
 pandas
 sqlite3
 kafka-python
+pyspark
 
 # run pip install -r requirements.txt
